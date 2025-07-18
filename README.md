@@ -21,6 +21,9 @@ This project demonstrates the use of JavaScript's `Date` object, mathematical ti
 - **HTML5** – Structured layout and semantic markup  
 - **CSS3** – Styling and responsive design techniques  
 - **JavaScript (ES6)** – Time logic, calculations, and DOM interaction
+- 
+# Visit the Countdown Timer
+https://aviral-dwivedi06.github.io/NewYear-Countdown/
 
 
 
